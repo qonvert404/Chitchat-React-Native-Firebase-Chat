@@ -47,10 +47,11 @@ const config = {
 ```
 
 ## Screenshots
-Login Screen             |  Registration Screen
-![](https://i.ibb.co/NK6PJPV/Screen-Shot-2019-04-30-at-6-14-50-PM.png)  |  ![](https://i.ibb.co/PtGV90j/Screen-Shot-2019-04-30-at-6-15-45-PM.png)
+|Login Screen|Registration Screen| Profile Screen|
+|:--:|:--:|:--:|
+|![](https://i.ibb.co/NK6PJPV/Screen-Shot-2019-04-30-at-6-14-50-PM.png)|![](https://i.ibb.co/PtGV90j/Screen-Shot-2019-04-30-at-6-15-45-PM.png)|![](https://i.ibb.co/cLkBNvn/Screen-Shot-2019-04-30-at-6-18-32-PM.png)|
 
-Profile Screen              |  Users Screen
-![](https://i.ibb.co/cLkBNvn/Screen-Shot-2019-04-30-at-6-18-32-PM.png)  |  ![](https://i.ibb.co/2cL8ktt/Screen-Shot-2019-04-29-at-10-35-16-PM.png)
-Chat Screen
-![](https://i.ibb.co/Jjbqn2P/Screen-Shot-2019-04-30-at-6-21-15-PM.png)
+|Users Screen|Chat Screen|Chat Screen # 2
+|:--:|:--:|:--:|
+|![](https://i.ibb.co/2cL8ktt/Screen-Shot-2019-04-29-at-10-35-16-PM.png)|![](https://i.ibb.co/Jjbqn2P/Screen-Shot-2019-04-30-at-6-21-15-PM.png)|![](https://i.ibb.co/18jFsKJ/Screen-Shot-2019-04-30-at-7-24-14-PM.png)|
+
