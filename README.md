@@ -1,5 +1,7 @@
 # Chitchat React Native Firebase Chat
 
+<img src="https://i.ibb.co/QK2TH84/chitchat.png" width="200" height="200">
+
 Simple chat implementation using react-native and firebase database. This is a Work in Progress!
 
 ## Getting Started
