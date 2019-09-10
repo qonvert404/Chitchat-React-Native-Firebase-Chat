@@ -48,17 +48,17 @@ One-to-one communication is the main use for mobile phones although, text messag
 
 ### Installing
 
-1. Clone this repo, `https://github.com/KonstantinSavinov/Chitchat-React-Native-Firebase-Chat.git`
-2. Go to project's root directory, `cd Chitchat-React-Native-Firebase-Chat`
-3. Run `npm install` to install dependencies
-4. Run `react-native link`
+1. Clone this repo, `$ git clone git://github.com/KonstantinSavinov/Chitchat-React-Native-Firebase-Chat.git`
+2. Go to project's root directory, `$ cd Chitchat-React-Native-Firebase-Chat`
+3. Run `$ npm install` to install dependencies
+4. Run `$ react-native link`
 5. Run the test application:
   * On Android:
     * To run the Android application, use this command: 
-    `react-native run-android`
+    `$ react-native run-android`
   * On iOS:
     * To run the iOS application, use the following command: 
-    `react-native run-ios`
+    `$ react-native run-ios`
     
 #### *Optional 
 1. For the Push Notifications on iOS you need to follow this instructions: https://facebook.github.io/react-native/docs/pushnotificationios.html
