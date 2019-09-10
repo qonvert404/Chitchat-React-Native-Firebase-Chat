@@ -48,8 +48,8 @@ One-to-one communication is the main use for mobile phones although, text messag
 
 ### Installing
 
-1. Clone this repo, `git clone https://github.com/KonstantinSavinov/Chitchat.git `
-2. Go to project's root directory, `cd <your project name>`
+1. Clone this repo, `https://github.com/KonstantinSavinov/Chitchat-React-Native-Firebase-Chat.git`
+2. Go to project's root directory, `cd Chitchat-React-Native-Firebase-Chat`
 3. Run `npm install` to install dependencies
 4. Run `react-native link`
 5. Run the test application:
