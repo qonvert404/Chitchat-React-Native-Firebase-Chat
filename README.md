@@ -2,7 +2,37 @@
 
 <img src="https://i.ibb.co/QK2TH84/chitchat.png" width="300" height="300">
 
-Simple chat implementation using react-native and firebase database. This is a Work in Progress!
+Simple chat implementation using react-native and firebase database.
+
+## Table of contents
+* [General info](#general-info)
+* [Features](#features)
+* [Screenshots](#screenshots)
+* [Getting Started](#getting-started)
+* [Credits](#credits)
+* [License](#license)
+
+## General Info
+
+One-to-one communication is the main use for mobile phones although, text messaging has been quickly replaced by direct messaging apps. Chitchat is a messaging app built in React Native with the support of Firebase, a mobile backend as a service that will free from having to build a whole backend for an app.
+
+## Features
+
+* Chat in Real time with Firebase
+* Awesome and beautiful U/I – U/X
+* Authentication Sign in and Sign up with Firebase
+* User list with avatar
+* Global state management with Redux
+
+## Screenshots
+|Login Screen|Registration Screen| Profile Screen|
+|:--:|:--:|:--:|
+|![](https://i.ibb.co/NK6PJPV/Screen-Shot-2019-04-30-at-6-14-50-PM.png)|![](https://i.ibb.co/PtGV90j/Screen-Shot-2019-04-30-at-6-15-45-PM.png)|![](https://i.ibb.co/cLkBNvn/Screen-Shot-2019-04-30-at-6-18-32-PM.png)|
+
+|Users Screen|Chat Screen|Chat Screen # 2
+|:--:|:--:|:--:|
+|![](https://i.ibb.co/2cL8ktt/Screen-Shot-2019-04-29-at-10-35-16-PM.png)|![](https://i.ibb.co/Jjbqn2P/Screen-Shot-2019-04-30-at-6-21-15-PM.png)|![](https://i.ibb.co/18jFsKJ/Screen-Shot-2019-04-30-at-7-24-14-PM.png)|
+
 
 ## Getting Started
 
@@ -46,12 +76,10 @@ const config = {
 }
 ```
 
-## Screenshots
-|Login Screen|Registration Screen| Profile Screen|
-|:--:|:--:|:--:|
-|![](https://i.ibb.co/NK6PJPV/Screen-Shot-2019-04-30-at-6-14-50-PM.png)|![](https://i.ibb.co/PtGV90j/Screen-Shot-2019-04-30-at-6-15-45-PM.png)|![](https://i.ibb.co/cLkBNvn/Screen-Shot-2019-04-30-at-6-18-32-PM.png)|
+## Credits
+* [Konstantin Savinov](https://github.com/KonstantinSavinov)
 
-|Users Screen|Chat Screen|Chat Screen # 2
-|:--:|:--:|:--:|
-|![](https://i.ibb.co/2cL8ktt/Screen-Shot-2019-04-29-at-10-35-16-PM.png)|![](https://i.ibb.co/Jjbqn2P/Screen-Shot-2019-04-30-at-6-21-15-PM.png)|![](https://i.ibb.co/18jFsKJ/Screen-Shot-2019-04-30-at-7-24-14-PM.png)|
+## License
+
+See the [LICENSE](LICENSE.md) file for license rights and limitations (MIT).
 
